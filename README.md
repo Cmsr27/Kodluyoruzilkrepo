@@ -1,5 +1,5 @@
 # Kodluyoru İlk Repo
-Bu repo __-kodluyoruz.org__ Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir aded README dosyası, bir adet de index.html barındırıyor
+Bu repo __kodluyoruz.org__ Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir aded README dosyası, bir adet de index.html barındırıyor
 
 ## Installation
 Öncelikle projei clonelayın
