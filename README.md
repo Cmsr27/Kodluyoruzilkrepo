@@ -1,8 +1,14 @@
-# İlk Repo
+# Kodluyoru İlk Repo
+Bu repo __-kodluyoruz.org__ Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir aded README dosyası, bir adet de index.html barındırıyor
 
-## Alt bilgi
-sadsadasfjıfhjas
-djsaklhgushakd
+## Installation
+Öncelikle projei clonelayın
+git clone https://github.com/Cmsr27/Kodluyoruzilkrepo.git
+## Usage
+Projeyi cloneladıktan sonra VSC programında açınız
+
+## Contributing
+ Pull requestler kabul edilir. Büyük değişiklikler için öncelikle neyi değiştirmek istediğinizi tartişmak için bir konu açınız.
 
 
 ## git Komutları
