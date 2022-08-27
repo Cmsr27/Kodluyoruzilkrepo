@@ -1,4 +1,4 @@
-# Paulina deli
+# Kodluyoruz ilk Repo
 Bu repo __kodluyoruz.org__ Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir aded README dosyası, bir adet de index.html barındırıyor
 
 ## Installation
